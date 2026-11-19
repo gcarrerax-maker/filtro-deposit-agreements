@@ -106,6 +106,6 @@ if uploaded_file is not None:
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
 
-    with st.expander("📋 Copiar dados (sem baixar) para colar em outra planilha"):
-        st.caption("Clique no ícone de copiar no canto do bloco abaixo e cole direto no Excel/Sheets.")
-        st.code(filtered.to_csv(sep="\t", index=False), language=None)
+    st.subheader("📋 Copiar dados (sem baixar)")
+    st.caption("Passe o mouse no canto superior direito do quadro abaixo e clique no ícone de copiar.")
+    st.code(filtered.to_csv(sep="\t", index=False), language=None)
