@@ -1,0 +1,184 @@
+Hotel,ID Hotel,CNPJ,Rede,Categoria,Estrelas,Apartamentos,Cidade,UF
+ATH Hotel - Américas Townhouse,14792,37.732.670/0001-02,ATH,Hotel,3,168,Rio De Janeiro,RJ
+Beach Class Convention By MAI,5723,45.349.778/0001-49,Beach Class,Hotel,4,272,Recife,PE
+Brava Mundo Hotel Boutique by Livá,18621,37.680.488/0003-17,Liva,Hotel,5,55,Itajai,SC
+Days Inn Rio Lapa,12409,20.777.649/0002-01,Days Inn,Hotel,3,150,Rio De Janeiro,RJ
+Golden Tulip Canela by Livá,21444,37.680.488/0008-21,Liva,Hotel,4,168,Canela,RS
+GoldMen Business Criciúma,1913,59.431.451/0001-26,GoldMen,Hotel,3,92,Criciuma,SC
+GoldMen Business Hotel Blumenau,22688,63.312.038/0001-10,GoldMen,Hotel,3,110,Blumenau,SC
+GoldMen Business Joinville,21142,57.157.339/0001-13,GoldMen,Hotel,4,109,Joinville,SC
+GoldMen Business Londrina,18398,51.295.768/0001-70,GoldMen,Hotel,3,47,Londrina,PR
+GoldMen Business Louveira,21140,56.886.036/0001-79,GoldMen,Hotel,4,50,Louveira,SP
+GoldMen Express Cianorte,21141,57.162.090/0001-34,GoldMen,Hotel,3,66,Cianorte,PR
+GoldMen Select Cianorte,15566,58.251.399/0001-63,GoldMen,Hotel,4,54,Cianorte,PR
+GoldMen Select Maringá,3424,52.223.469/0001-93,GoldMen,Hotel,3,87,Maringa,PR
+GoldMen Vila do Mar Natal,1031,61.432.653/0001-34,GoldMen,Hotel,4,210,Natal,RN
+HOTEL DIOGO,2205,07.584.584/0001-39,Diogo,Hotel,3,174,Fortaleza,CE
+Poehma Lago Negro by Livá,20894,37.680.488/0007-40,Liva,Hotel,4,36,Gramado,RS
+Santé Búzios by Livá,21654,37.680.488/0010-46,Liva,Hotel,5,25,Armacao De Buzios,RJ
+Vivant Eco Beach Hotel by Livá,15701,40.150.665/0001-04,Liva,Resort,4,70,Marau,BA
+Wanderlust Experience Hotel BW Signature Collection by Livá,18274,37.680.488/0004-06,Liva,Hotel,4,77,Campos Do Jordao,SP
+Wyndham São Paulo Ibirapuera Convention Plaza Hotel,18996,43.001.508/0001-17,Wyndham Ibirapuera,Hotel,4,600,Sao Paulo,SP
+Hotel Nacional Inn Poços de Caldas,2081,21.385.539/0001-86,Nacional Inn,Hotel,3,223,Pocos De Caldas,MG
+Cassino All Inclusive Resort Poços de Caldas By Nacional Inn,12912,40.445.300/0001-07,Nacional Inn,Resort,4,142,Pocos De Caldas,MG
+Hotel Cassino Tower Aeroporto Curitiba by Nacional Inn,18069,08.718.463/0002-86,Nacional Inn,Hotel,3,120,Sao Jose Dos Pinhais,PR
+Hotel Cassino Tower Campinas Cambuí By Nacional Inn,14481,44.346.264/0001-77,Nacional Inn,Hotel,4,83,Campinas,SP
+Hotel Cassino Tower Piracicaba by Nacional Inn,20934,09.457.981/0002-56,Nacional Inn,Hotel,3,174,Piracicaba,SP
+Hotel Nacional Inn Poços de Caldas - Lazer completo e Gastronomia no Centro,2081,21.385.539/0001-86,Nacional Inn,Hotel,3,223,Pocos De Caldas,MG
+Hotel Nacional Inn Ribeirão Preto,2083,57.687.022/0001-99,Nacional Inn,Hotel,3,138,Ribeirao Preto,SP
+Hotel Castelo Nacional Inn Campos do Jordão,5585,21.277.360/0001-05,Nacional Inn,Hotel,4,61,Campos Do Jordao,SP
+Hotel Dan Inn Araraquara By Nacional Inn,2088,03.851.093/0001-56,Nacional Inn,Hotel,3,124,Araraquara,SP
+Hotel Dan Inn Barretos By Nacional Inn,2089,44.232.296/0001-41,Nacional Inn,Hotel,3,70,Barretos,SP
+Hotel Dan Inn Campinas Anhanguera By Nacional Inn,2424,11.691.927/0001-31,Nacional Inn,Hotel,3,120,Campinas,SP
+Hotel Dan Inn Campinas Cambuí By Nacional Inn,2423,11.279.535/0001-60,Nacional Inn,Hotel,3,71,Campinas,SP
+Hotel Dan Inn Campos do Jordão,5909,27.723.041/0001-62,Nacional Inn,Hotel,3,98,Campos Do Jordao,SP
+Hotel Dan Inn Curitiba Centro by Nacional Inn,2409,12.785.220/0001-57,Nacional Inn,Hotel,3,113,Curitiba,PR
+Hotel Dan Inn Express Foz do Iguaçu By Nacional Inn,3866,77.948.065/0001-98,Nacional Inn,Hotel,3,75,Foz Do Iguacu,PR
+Hotel Dan Inn Express Porto Alegre  by Nacional Inn,2102,14.404.639/0001-47,Nacional Inn,Hotel,3,102,Porto Alegre,RS
+Hotel Dan Inn Express Ribeirão Preto by Nacional Inn,2084,44.802.981/0001-66,Nacional Inn,Hotel,3,99,Ribeirao Preto,SP
+Hotel Dan Inn Express Salvador By Nacional Inn,2544,13.789.375/0001-24,Nacional Inn,Hotel,3,47,Salvador,BA
+Hotel Dan Inn Franca by Nacional Inn,2090,06.263.718/0001-57,Nacional Inn,Hotel,3,125,Franca,SP
+Hotel Dan Inn Mar Piedade - Grande Recife By Nacional Inn,2091,08.585.298/0001-50,Nacional Inn,Hotel,3,150,Jaboatao Dos Guararapes,PE
+Hotel Nacional Inn Ribeirao Preto by Nacional Inn,2083,57.687.022/0001-99,Nacional Inn,Hotel,3,138,Ribeirao Preto,SP
+Hotel Dan Inn Poços de Caldas by Nacional Inn,2099,11.463.594/0001-93,Nacional Inn,Hotel,3,80,Pocos De Caldas,MG
+Hotel Dan Inn Ribeirao  Preto by Nacional Inn,2096,03.172.672/0001-72,Nacional Inn,Hotel,3,186,Ribeirao Preto,SP
+Hotel Dan Inn São Carlos by Nacional Inn,14899,04.192.534/0003-80,Nacional Inn,Hotel,3,96,Sao Carlos,SP
+Hotel Dan Inn São José do Rio Preto By Nacional Inn,8472,54.525.936/0001-65,Nacional Inn,Hotel,4,69,Sao Jose Do Rio Preto,SP
+Hotel Dan Inn Planalto São Paulo,2094,05.668.014/0001-00,Nacional Inn,Hotel,3,261,Sao Paulo,SP
+Hotel Dan Inn São Paulo Higienópolis by Nacional Inn,2100,40.141.054/0001-91,Nacional Inn,Hotel,3,43,Sao Paulo,SP
+Hotel Dan Inn Sorocaba by Nacional Inn,2098,55.392.153/0001-13,Nacional Inn,Hotel,4,125,Sorocaba,SP
+Hotel Dan Inn Uberaba & Convenções By Nacional Inn,2101,04.192.534/0001-18,Nacional Inn,Hotel,4,141,Uberaba,MG
+Hotel Dan Inn Uberlandia By Nacional Inn,17998,04.192.534/0002-07,Nacional Inn,Hotel,4,118,Uberlandia,MG
+Hotel Euro Suite Campinas by Nacional Inn,7702,03.150.070/0001-14,Nacional Inn,Hotel,4,56,Campinas,SP
+Hotel Euro Suíte Campos do Jordão,8135,32.827.676/0001-40,Nacional Inn,Hotel,3,46,Campos Do Jordao,SP
+Hotel Euro Suite Curitiba Batel by Nacional Inn,18068,14.661.448/0002-41,Nacional Inn,Hotel,3,70,Curitiba,PR
+Hotel Euro Suite Poços de Caldas By Nacional Inn,3616,14.702.870/0001-17,Nacional Inn,Hotel,3,40,Pocos De Caldas,MG
+Hotel Euro Suite Recife Boa Viagem By Nacional Inn,10178,35.183.253/0001-22,Nacional Inn,Hotel,3,105,Recife,PE
+Hotel Euro Suite São José do Rio Preto By Nacional Inn,20376,54.525.936/0002-46,Nacional Inn,Hotel,3,110,Sao Jose Do Rio Preto,SP
+Hotel Euro Suite São Paulo by Nacional Inn,2085,40.138.732/0001-67,Nacional Inn,Hotel,3,112,Sao Paulo,SP
+Hotel Fazenda Golden Park Campos do Jordão,3793,21.277.360/0001-05,Nacional Inn,Hotel,3,123,Campos Do Jordao,SP
+Hotel Golden Park All Inclusive Poços de Caldas By Nacional Inn,2073,10.757.501/0001-70,Nacional Inn,Resort,4,114,Pocos De Caldas,MG
+Hotel Golden Park Campinas Cambuí By Nacional Inn,15648,46.124.961/0001-09,Nacional Inn,Hotel,3,66,Campinas,SP
+Hotel Golden Park Campinas Viracopos By Nacional Inn,2074,20.405.019/0001-25,Nacional Inn,Hotel,3,159,Campinas,SP
+Hotel Golden Park Curitiba by Nacional Inn,2071,17.728.638/0001-46,Nacional Inn,Hotel,3,129,Curitiba,PR
+Hotel Golden Park Internacional Foz & Convenções By Nacional Inn,4617,22.073.537/0001-14,Nacional Inn,Hotel,4,214,Foz Do Iguacu,PR
+Hotel Golden Park Recife Boa Viagem By Nacional Inn,971,30.120.371/0001-78,Nacional Inn,Hotel,3,95,Recife,PE
+Hotel Golden Park Ribeirão Preto By Nacional Inn,2523,18.575.187/0001-17,Nacional Inn,Hotel,3,72,Ribeirao Preto,SP
+Hotel Golden Park Rio de Janeiro Aeroporto By Nacional Inn,2425,32.280.935/0001-65,Nacional Inn,Hotel,3,71,Rio De Janeiro,RJ
+Hotel Golden Park Salvador By Nacional Inn,2072,15.176.969/0001-95,Nacional Inn,Hotel,3,116,Salvador,BA
+Hotel Golden Park Sorocaba & Convenções by Nacional Inn,5261,24.772.199/0001-34,Nacional Inn,Hotel,3,145,Sorocaba,SP
+Hotel Golden Park Uberaba By Nacional Inn,2540,14.022.801/0001-62,Nacional Inn,Hotel,4,110,Uberaba,MG
+Hotel Golden Park Uberlândia By Nacional Inn,18534,14.022.801/0002-43,Nacional Inn,Hotel,4,116,Uberlandia,MG
+Hotel Nacional Inn Alagoinhas,20932,13.789.375/0002-05,Nacional Inn,Hotel,3,108,Alagoinhas,BA
+Hotel Nacional Inn Angra dos Reis,18656,32.280.935/0002-46,Nacional Inn,Hotel,4,142,Angra Dos Reis,RJ
+Hotel Dan Inn Planalto São Paulo by Nacional Inn,2094,05.668.014/0001-00,Nacional Inn,Hotel,3,261,Sao Paulo,SP
+Hotel Nacional Inn Araxá Previdência,2079,10.258.059/0001-38,Nacional Inn,Hotel,3,122,Araxa,MG
+Hotel Nacional Inn Bauru,20379,10.628.960/0001-54,Nacional Inn,Hotel,3,112,Bauru,SP
+Hotel Nacional Inn Belo Horizonte,2075,08.349.419/0001-65,Nacional Inn,Hotel,3,109,Belo Horizonte,MG
+Hotel Nacional Inn Cambuí Campinas Residence,10588,09.457.981/0001-75,Nacional Inn,Hotel,3,79,Campinas,SP
+Hotel Nacional Inn Campinas Trevo,2076,00.124.587/0001-40,Nacional Inn,Hotel,4,175,Campinas,SP
+Hotel Nacional Inn Campos do Jordão,2401,59.737.841/0001-29,Nacional Inn,Hotel,4,106,Campos Do Jordao,SP
+Hotel Nacional Inn Cuiabá,1739,35.460.629/0001-07,Nacional Inn,Hotel,3,104,Cuiaba,MT
+Hotel Nacional Inn Curitiba Estação Shopping,2543,14.661.448/0001-60,Nacional Inn,Hotel,3,108,Curitiba,PR
+Hotel Nacional Inn Curitiba Santa Felicidade,18070,12.785.220/0002-38,Nacional Inn,Hotel,3,100,Curitiba,PR
+Hotel Nacional Inn Curitiba Torres,2872,19.354.220/0001-41,Nacional Inn,Hotel,3,88,Curitiba,PR
+Hotel Nacional Inn Foz do Iguaçu,3791,79.701.918/0001-18,Nacional Inn,Hotel,3,117,Foz Do Iguacu,PR
+Hotel Nacional Inn Guarujá,17711,32.827.676/0002-20,Nacional Inn,Hotel,3,65,Guaruja,SP
+Hotel Nacional Inn Jaraguá São Paulo,19787,05.153.506/0002-35,Nacional Inn,Hotel,4,415,Sao Paulo,SP
+Hotel Nacional Inn Limeira,2077,67.436.923/0001-61,Nacional Inn,Hotel,3,113,Limeira,SP
+Hotel Nacional Inn Palmas,20378,10.628.960/0001-54,Nacional Inn,Hotel,3,108,Palmas,TO
+Hotel Nacional Inn Piracicaba,2078,53.191.938/0001-00,Nacional Inn,Hotel,4,162,Piracicaba,SP
+Hotel Dan Inn São José dos Campos,2097,07.182.046/0001-18,Nacional Inn,Hotel,3,110,Sao Jose Dos Campos,SP
+Hotel Nacional Inn Porto Alegre,10728,35.229.840/0001-05,Nacional Inn,Hotel,3,148,Porto Alegre,RS
+Hotel Nacional Inn Recife Aeroporto,2080,04.673.297/0001-07,Nacional Inn,Hotel,3,77,Recife,PE
+Hotel Dan Inn São José dos Campos by Nacional Inn,2097,07.182.046/0001-18,Nacional Inn,Hotel,3,110,Sao Jose Dos Campos,SP
+Hotel Nacional Inn Rio Copacabana,7759,30.003.248/0001-77,Nacional Inn,Hotel,3,67,Rio De Janeiro,RJ
+Hotel Nacional Inn São Carlos & Convenções,3977,20.880.245/0001-68,Nacional Inn,Hotel,3,126,Sao Carlos,SP
+Hotel Nacional Inn São José dos Campos,2082,17.832.672/0001-66,Nacional Inn,Hotel,4,157,Sao Jose Dos Campos,SP
+Hotel Nacional Inn São Paulo,3613,40.262.831/0001-56,Nacional Inn,Hotel,3,40,Sao Paulo,SP
+Hotel Nacional Inn Sorocaba,2419,09.174.867/0001-38,Nacional Inn,Hotel,3,141,Sorocaba,SP
+Hotel Nacional Inn Ubatuba – Praia das Toninhas,17641,07.182.046/0002-07,Nacional Inn,Hotel,4,75,Ubatuba,SP
+HOTEL JEQUITIMAR GUARUJÁ RESORT & SPA BY ACCOR (EX SOFITEL),2200,02.414.419/0002-04,Jequitimar,Resort,5,301,Guaruja,SP
+Hotel Victoria Villa Curitiba by Nacional Inn,3207,08.718.463/0001-03,Nacional Inn,Hotel,4,125,Curitiba,PR
+Hotel Vilage Inn All Inclusive Poços de Caldas By Nacional Inn,2087,00.713.456/0001-07,Nacional Inn,Resort,4,208,Pocos De Caldas,MG
+Hotel Vilage Inn Ribeirão Preto & Convenções By Nacional Inn,2086,64.692.502/0001-03,Nacional Inn,Hotel,3,139,Ribeirao Preto,SP
+HOTEL JEQUITIMAR GUARUJÁ RESORT & SPA BY ACCOR,2200,02.414.419/0002-04,Jequitimar,Resort,5,301,Guaruja,SP
+Pousada Nacional Inn Campos do Jordão,3694,59.737.841/0002-00,Nacional Inn,Pousada,3,25,Campos Do Jordao,SP
+Pousada Victoria Villa Campos do Jordão,16375,27.723.041/0002-43,Nacional Inn,Hotel,4,35,Campos Do Jordao,SP
+Pousada Vilage Inn Campos do Jordão,22137,59.737.841/0003-90,Nacional Inn,Pousada,3,35,Campos Do Jordao,SP
+Thermas All Inclusive Resort Poços de Caldas By Nacional Inn,3563,19.970.202/0001-94,Nacional Inn,Resort,5,146,Pocos De Caldas,MG
+Emiliano Rio de Janeiro,5663,16.365.607/0001-05,Emiliano RJ,Hotel,5,90,Rio De Janeiro,RJ
+Emiliano São Paulo,5336,04.433.548/0001-86,Emiliano SP,Hotel,5,56,Sao Paulo,SP
+Gran Paradiso by Livá,51838,37.680.488/0011-27,Liva,Hotel,4,130,Campos Do Jordao,SP
+V3rso,20721,43.749.410/0001-42,Emiliano V3rso,Hotel,3,200,Sao Paulo,SP
+GoldMen Express Campos dos Goytacazes,23183,63.877.691/0001-26,Liva,Hotel,3,79,Campos Dos Goytacazes,RJ
+GoldMen Business Hotel Brasilia,51972,65.194.914/0001-86,Liva,Hotel,3,506,Brasilia,DF
+Hotel Nacional Rio de Janeiro,9924,22.599.190/0002-29,Nacional RJ,Hotel,5,412,Rio De Janeiro,RJ
+Enjoy Olimpia Park Resort,8598,27.887.833/0002-53,Enjoy,Hotel,5,450,Olimpia,SP
+Enjoy Solar das Águas Park Resort,13494,27.887.833/0003-34,Enjoy,Resort,5,1000,Olimpia,SP
+TRI Hotel & Flat Caxias,10585,20.947.458/0009-17,Tri Hoteis,Hotel,3,72,Caxias Do Sul,RS
+Tri Hotel Antônio Prado,17666,20.947.458/0021-03,Tri Hoteis,Hotel,3,125,Antonio Prado,RS
+Tri Hotel Bento Goncalves,20534,20.947.458/0025-37,Tri Hoteis,Hotel,3,117,Bento Goncalves,RS
+TRI Hotel Canela,9266,20.947.458/0012-12,Tri Hoteis,Hotel,3,174,Canela,RS
+Tri Hotel Centro Chapecó,14631,20.947.458/0016-46,Tri Hoteis,Hotel,3,99,Chapeco,SC
+TRI Hotel Chapecó,10718,20.947.458/0010-50,Tri Hoteis,Hotel,3,172,Chapeco,SC
+TRI Hotel Criciúma,7405,20.947.458/0002-40,Tri Hoteis,Hotel,3,129,Criciuma,SC
+TRI Hotel Executive Brusque,8704,20.947.458/0004-02,Tri Hoteis,Hotel,3,134,Brusque,SC
+TRI Hotel Executive Caxias,2691,08.796.158/0001-21,Tri Hoteis,Hotel,3,142,Caxias Do Sul,RS
+TRI Hotel Executive Criciúma,7386,20.947.458/0003-21,Tri Hoteis,Hotel,3,86,Criciuma,SC
+Tri Hotel Executive Lajeado,15015,20.947.458/0017-27,Tri Hoteis,Hotel,3,90,Lajeado,RS
+Tri Hotel Executive Osório,17663,20.947.458/0018-08,Tri Hoteis,Hotel,3,105,Osorio,RS
+TRI Hotel Florianópolis,7395,28.047.759/0001-49,Tri Hoteis,Hotel,3,122,Florianopolis,SC
+TRI Hotel Lago Gramado,10225,20.947.458/0007-55,Tri Hoteis,Hotel,3,39,Gramado,RS
+Tri Hotel Lajeado,18583,20.947.458/0022-94,Tri Hoteis,Hotel,3,116,Lajeado,RS
+Tri Hotel Praia Grande,20532,20.947.458/0008-36,Tri Hoteis,Hotel,3,120,Praia Grande,SP
+Tri Hotel Premium Criciuma,16690,20.947.458/0020-22,Tri Hoteis,Hotel,3,124,Criciuma,SC
+TRI Hotel Premium Itapema,18659,20.947.458/0023-75,Tri Hoteis,Hotel,3,155,Itapema,SC
+TRI Hotel São João Batista,6393,20.947.458/0005-93,Tri Hoteis,Hotel,3,65,Sao Joao Batista,SC
+TRI Hotel Smart Caxias,7450,20.947.458/0001-60,Tri Hoteis,Hotel,3,65,Caxias Do Sul,RS
+TRI Hotel Smart Chapecó,6488,20.947.458/0011-31,Tri Hoteis,Hotel,3,69,Chapeco,SC
+Tri Hotel Vittoria Bento,20533,20.947.458/0024-56,Tri Hoteis,Hotel,4,109,Bento Goncalves,RS
+Tri Hotel Xanxerê,16538,20.947.458/0019-99,Tri Hoteis,Hotel,3,78,Xanxere,SC
+Blue Tree Daj Resort & Marina,7888,10.539.318/0001-07,Blue Tree Daj,Resort,5,51,Ribeirao Claro,PR
+GoldMen Coliseum Beach Hotel,5279,65.997.878/0001-99,GoldMen,Resort,3,160,Beberibe,CE
+Samoa Villa Resort,20168,57.613.136/0001-93,Samoa,Resort,4,168,Ipojuca,PE
+Resort  Arcobaleno,1900,15.196.199/0004-95,Arcobaleno,Resort,4,162,Porto Seguro,BA
+Marupiara Resort by Wish,2449,07.687.928/0003-05,Wish,Hotel,4,128,Ipojuca,PE
+Hotel da Bahia by Wish,3615,07.687.928/0011-07,Wish,Hotel,5,284,Salvador,BA
+Marupiara All Inclusive Resort by Wish,2449,07.687.928/0003-05,Wish,Hotel,4,128,Ipojuca,PE
+Wish Foz do Iguaçu Resort,2443,07.687.928/0008-01,Wish,Resort,5,195,Foz Do Iguacu,PR
+Wish Natal Resort,5273,07.687.928/0006-40,Wish,Resort,5,188,Natal,RN
+Wish Serrano Resort,2452,07.687.928/0014-50,Wish,Resort,5,272,Gramado,RS
+Chocoland Hotel Gramado,21067,09.633.596/0001-31,Chocoland,Hotel,4,98,Gramado,RS
+Castelos do Vale by Livá,53038,37.680.488/0013-99,Liva,Hotel,4,68,Bento Goncalves,RS
+Aera Rio de Janeiro Copacabana,53238,80.732.928/0095-80,Atrio,Hotel,3,121,Rio De Janeiro,RJ
+Himmelblau Palace Hotel,3730,80.732.928/0092-37,Atrio,Hotel,4,125,Blumenau,SC
+K-PLATZ HOTEL,13440,22.555.275/0002-05,Atrio,Hotel,4,120,Sao Jose,SC
+LK Design Hotel Florianópolis,12469,22.555.275/0001-24,Atrio,Hotel,5,164,Florianopolis,SC
+Montissi Resort e Spa,53025,80.732.928/0094-07,Atrio,Hotel,5,67,Rancho Queimado,SC
+Villa do Vale Boutique Hotel,8535,26.990.006/0001-47,Atrio,Hotel,5,20,Blumenau,SC
+Mavsa Resort,9164,03.601.760/0001-42,Mavsa,Resort,5,113,Cesario Lange,SP
+ Hotel JP Ribeirão Preto Resort & Convenções by Nacional Inn,2760,48.538.805/0001-10,Nacional Inn,Hotel,4,156,Ribeirao Preto,SP
+Hotel JP Ribeirão Preto Resort & Convenções by Nacional Inn,2760,48.538.805/0001-10,Nacional Inn,Hotel,4,156,Ribeirao Preto,SP
+Hotel Nacional Inn Araçatuba,7365,44.417.889/0001-82,Nacional Inn,Hotel,3,72,Aracatuba,SP
+Hotel Nacional Inn Araçatuba by Nacional Inn,7365,44.417.889/0001-82,Nacional Inn,Hotel,3,72,Aracatuba,SP
+Hotel Tryp by Wyndham Ribeirão Preto Nacional Inn,5170,37.095.795/0001-79,Nacional Inn,Hotel,4,256,Ribeirao Preto,SP
+Hotel Park Tower Campinas Residence by Nacional Inn,10622,01.482.825/0001-52,Nacional Inn,Hotel,3,108,Campinas,SP
+Hotel Park Tower Campinas by Nacional Inn,10622,01.482.825/0001-52,Nacional Inn,Hotel,3,108,Campinas,SP
+El Aram Ponta Negra Hotel,1169,10.532.722/0001-40,Aram Hotéis,Hotel,3,104,Natal,RN
+El Aram Beach Express,2179,14.346.545/0001-69,Aram Hotéis,Hotel,3,84,Maceio,AL
+El Aram Natal Mar Hotel,3120,19.605.564/0001-86,Aram Hotéis,Hotel,4,155,Natal,RN
+El Aram Beach & Convention,6370,18.231.566/0001-90,Aram Hotéis,Hotel,3,151,Joao Pessoa,PB
+El Aram Imirá Beach Resort,8502,32.699.669/0001-00,Aram Hotéis,Resort,4,166,Natal,RN
+El Aram Beach Boa Viagem Hotel,14849,19.605.564/0002-67,Aram Hotéis,Hotel,3,140,Recife,PE
+El Aram Beach Cabo All Inclusive,23045,19.605.564/0003-48,Aram Hotéis,Hotel,4,129,Cabo De Santo Agostinho,PE
+Linx Galeão by Wish,2728,07.687.928/0015-30,Wish,Hotel,3,162,Rio De Janeiro,RJ
+Prodigy Santos Dumont by Wish,4394,07.687.928/0021-89,Wish,Hotel,4,190,Rio De Janeiro,RJ
+Hotel Cassino Tower São José do Rio Preto by Nacional Inn,15688,46.638.401/0001-72,Nacional Inn,Hotel,4,89,Sao Jose Do Rio Preto,SP
+Hotel Park Tower São José do Rio Preto by Nacional Inn,15688,46.638.401/0001-72,Nacional Inn,Hotel,4,101,Sao Jose Do Rio Preto,SP
+Hotel Cassino Tower Savassi by Nacional Inn,22138,61.980.814/0001-24,Nacional Inn,Hotel,3,132,Belo Horizonte,MG
+Hotel Park Tower Savassi by Nacional Inn,22138,61.980.814/0001-24,Nacional Inn,Hotel,4,132,Belo Horizonte,MG
+Hotel Euro Suíte Santa Rita do Passa Quatro by Nacional Inn,52322,65.025.334/0001-65,Nacional Inn,Hotel,4,25,Santa Rita Do Passa Quatro,SP
+Vinícola da Mansão,53572,68.786.541/0001-20,Nacional Inn,Hotel,4,51,Campos Do Jordao,SP
+Nacional Inn Rondonópolis,22629,15.269.710/0001-99,Nacional Inn,Hotel,3,119,Rondonopolis,MT
+Hotel Nacional Inn Rondonópolis,22629,15.269.710/0001-99,Nacional Inn,Hotel,3,119,Rondonopolis,MT
