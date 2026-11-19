@@ -69,7 +69,6 @@ DRIVE_URL = (
     "&viewid=08f8c7a7%2D476f%2D444f%2Dbb24%2Dc5484788b2c5"
     "&share=cgr9ocJKJBY%5FQLag7tXmf525EgUDSXaJJH%2DfsGmXhOaXIVkrvg"
 )
-st.link_button("📁 Acesso Drive", DRIVE_URL)
 
 st.title("🏨 Filtro Deposit Agreements")
 st.write(
@@ -103,17 +102,23 @@ if uploaded_file is not None:
         st.success(f"Detectado: base **CHECK IN** · {len(df)} linhas · filtrando pela lista OMN.")
         filtered = filter_checkin(df)
 
-    st.metric("Reservas elegíveis para prebuy", f"{len(filtered)} de {len(df)}")
-    st.dataframe(filtered, use_container_width=True)
-
     file_label = "creation" if base == "creation" else "checkin"
-    st.download_button(
-        "⬇️ Baixar Excel filtrado",
-        data=to_excel_bytes(filtered),
-        file_name=f"filtro_prebuy_{file_label}.xlsx",
-        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-    )
 
-    with st.expander("📋 Clique aqui para copiar os dados (sem baixar)"):
-        st.caption("Passe o mouse no canto superior direito do quadro abaixo e clique no ícone de copiar.")
-        st.code(filtered.to_csv(sep="\t", index=False), language=None)
+    col_metric, col_download, col_copy, col_drive = st.columns([3, 1, 1, 1])
+    with col_metric:
+        st.metric("Reservas elegíveis para prebuy", f"{len(filtered)} de {len(df)}")
+    with col_download:
+        st.download_button(
+            "⬇️ Baixar Excel",
+            data=to_excel_bytes(filtered),
+            file_name=f"filtro_prebuy_{file_label}.xlsx",
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        )
+    with col_copy:
+        with st.popover("📋 Copiar Dados"):
+            st.caption("Passe o mouse no canto superior direito do quadro abaixo e clique no ícone de copiar.")
+            st.code(filtered.to_csv(sep="\t", index=False), language=None)
+    with col_drive:
+        st.link_button("📁 Acesso Drive", DRIVE_URL)
+
+    st.dataframe(filtered, use_container_width=True)
