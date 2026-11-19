@@ -63,6 +63,14 @@ def to_excel_bytes(df: pd.DataFrame) -> bytes:
     return buffer.getvalue()
 
 
+DRIVE_URL = (
+    "https://goglobaltravel.sharepoint.com/sites/BBTProducts/Shared%20Documents/Forms/AllItems.aspx"
+    "?id=%2Fsites%2FBBTProducts%2FShared%20Documents%2F4%5FProdutos%20Nacional%2FBI%5FPRODUCT%5FBRAZIL%2FPrepayment"
+    "&viewid=08f8c7a7%2D476f%2D444f%2Dbb24%2Dc5484788b2c5"
+    "&share=cgr9ocJKJBY%5FQLag7tXmf525EgUDSXaJJH%2DfsGmXhOaXIVkrvg"
+)
+st.link_button("📁 Acesso Drive", DRIVE_URL)
+
 st.title("🏨 Filtro Deposit Agreements")
 st.write(
     "Suba o extrato de **CREATION** (Booking Report) ou **CHECK IN** (Export) e "
@@ -106,6 +114,6 @@ if uploaded_file is not None:
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
 
-    st.subheader("📋 Copiar dados (sem baixar)")
-    st.caption("Passe o mouse no canto superior direito do quadro abaixo e clique no ícone de copiar.")
-    st.code(filtered.to_csv(sep="\t", index=False), language=None)
+    with st.expander("📋 Clique aqui para copiar os dados (sem baixar)"):
+        st.caption("Passe o mouse no canto superior direito do quadro abaixo e clique no ícone de copiar.")
+        st.code(filtered.to_csv(sep="\t", index=False), language=None)
