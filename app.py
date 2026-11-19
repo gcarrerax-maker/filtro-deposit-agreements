@@ -105,3 +105,7 @@ if uploaded_file is not None:
         file_name=f"filtro_prebuy_{file_label}.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
+
+    with st.expander("📋 Copiar dados (sem baixar) para colar em outra planilha"):
+        st.caption("Clique no ícone de copiar no canto do bloco abaixo e cole direto no Excel/Sheets.")
+        st.code(filtered.to_csv(sep="\t", index=False), language=None)
