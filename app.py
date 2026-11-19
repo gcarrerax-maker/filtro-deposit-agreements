@@ -5,7 +5,7 @@ import unicodedata
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Filtro Prebuy", page_icon="🏨", layout="wide")
+st.set_page_config(page_title="Filtro Deposit Agreements", page_icon="🏨", layout="wide")
 
 DATA_DIR = "data"
 
@@ -63,7 +63,7 @@ def to_excel_bytes(df: pd.DataFrame) -> bytes:
     return buffer.getvalue()
 
 
-st.title("🏨 Filtro Prebuy")
+st.title("🏨 Filtro Deposit Agreements")
 st.write(
     "Suba o extrato de **CREATION** (Booking Report) ou **CHECK IN** (Export) e "
     "receba de volta só as reservas cujo hotel está na lista de referência "
